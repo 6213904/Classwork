@@ -1,0 +1,8 @@
+C:\Urshil\Visual Studio\Project3\bin\Debug\Project3.exe.config
+C:\Urshil\Visual Studio\Project3\bin\Debug\Project3.exe
+C:\Urshil\Visual Studio\Project3\bin\Debug\Project3.pdb
+C:\Urshil\Visual Studio\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+C:\Urshil\Visual Studio\Project3\obj\Debug\Project3.csproj.SuggestedBindingRedirects.cache
+C:\Urshil\Visual Studio\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Urshil\Visual Studio\Project3\obj\Debug\Project3.exe
+C:\Urshil\Visual Studio\Project3\obj\Debug\Project3.pdb
